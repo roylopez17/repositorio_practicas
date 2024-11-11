@@ -1,2 +1,9 @@
-# repositorio_practicas
-Practicas sobre la materia de robotica
+# Repositorio de Prácticas
+
+## Integrantes del equipo:
+- López Renteria Rodrigo
+- Soriano Martínes Carlos Haniel
+
+## Descripción:
+Este repositorio contiene las prácticas realizadas en el curso...
+
